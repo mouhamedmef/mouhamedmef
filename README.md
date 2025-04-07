@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mouhamedmef&label=Profile%20views&color=0e75b6&style=flat" alt="mouhamedmef" /> </p>
 
-- 🌱 I’m currently learning **reactjs**
+- 🌱 I’m currently learning **nextjs**
 
 - 📫 How to reach me **mohamed01.mefteh@gmail.com**
 
