@@ -3,7 +3,7 @@
 <div align="left">
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=mouhamedmef&label=Profile%20views&color=0e75b6&style=flat" alt="mouhamedmef" /> </p>
   <a href="https://www.map.org.uk">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/640px-Flag_of_Palestine.svg.png" alt="Support Palestine" height="20px">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/640px-Flag_of_Palestine.svg.png" alt="Support Palestine" height="20px" width="50px">
   </a>
 </div>
 
